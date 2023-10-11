@@ -1,0 +1,79 @@
+.navbar {
+  background-color: #020826;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #716040;
+  text-align: center;
+}
+
+.jumbotron > img {
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid black;
+  background-position: center;
+  background-size: cover;
+} 
+
+#about {
+  background-color: #eaddcf;
+}
+
+#hardskill {
+  background-color: #716040;
+
+}
+
+.icon1 {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.icon2 {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.icon3 {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.icon4{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+
+}
+
+#projects {
+  background-color:#eaddcf ;
+}
+
+.card-text {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+#contact {
+  background-color: #716040;
+}
+
+.foot {
+background-color: #020826;
+}
+
+.foot > p {
+  color: #f25042;
+  text-align: center;
+  font-weight: bold;
+}
+
+section {
+  padding-top: 6rem;
+}
